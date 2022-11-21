@@ -1,14 +1,13 @@
-<h2><center> Responsive-Login-and-Registration</center></h2>
+<h2><centre> Responsive Login and Registration</centre></h2>
+<p> <centre>Sliding Sign-in and Sign-up form using HTML,CSS and javascript</centre></p>
 
-<p> <center>Sliding Sign-in and Sign-up form using HTML,CSS and javascript</center></p>
-
-<h4><p>&#U+1F4F7</p> unDraw </h4>
-<p> undraw.co</p>
+<h4> Helping Hands </h4>
 <ol>
-<li>keyword - desk</li>
-<li>keyword - launch</li>
+<li>FontAwesome (kit)</li>
+<li>ICONS</li>
+<li>unDraw</li>
 </ol>
 
-<h4><img src ="https://github.com/devpeak/Login-Signup-form/blob/master/images/icons.png">Fontawesome CDN and ICONS</h4>
+<h4><img src ="https://github.com/devpeak/Login-Signup-form/blob/master/images/icons.png" width="128" height="128">Fontawesome CDN and ICONS</h4>
 
 
